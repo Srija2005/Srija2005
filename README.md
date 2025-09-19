@@ -2,7 +2,7 @@
 - 👀 I’m interested in software testing.
 - 🌱 I’m currently learning spring boot
 - 💞️ I’m looking to collaborate on real-world projects
-- 📫 How to reach me 
+- 📫 How to reach me srijadhayalan24@gmail.com
 
 <!---
 Srija2005/Srija2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
