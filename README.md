@@ -1,7 +1,8 @@
 - 👋 Hi, I’m srija
-- 👀 I’m interested in software testing.
-- 🌱 I’m currently learning spring boot
-- 💞️ I’m looking to collaborate on real-world projects
+- 👀 I’m interested in software testing and QA testing.
+- ✅ compeleted manual testing and SQL.
+- 🌱 I’m currently learning automation.
+- 💞️ I’m looking to collaborate on real-world projects.
 - 📫 How to reach me srijadhayalan24@gmail.com
 
 <!---
